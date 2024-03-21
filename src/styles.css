@@ -1,0 +1,16 @@
+.weather-container {
+    background-color: #b3e0ff; /* Light blue for clear skies */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .forecast-container {
+    background-color: #c2d1e4; /* Light gray-blue for forecast */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
